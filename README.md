@@ -115,5 +115,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## 👤 Author
 
-**Your Name**  
+**Janma K Gowda**  
 GitHub: [@janmaaa](https://github.com/janmaaa)' > README.md
